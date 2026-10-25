@@ -154,7 +154,7 @@ To generate an OpenAPI project using the [Web3j-OpenAPI](https://github.com/web3
 It’s easy to do (for Windows instructions head [here](command_line_tools.md)):
 
 ```
-$ curl -L get.web3j.io | sh
+$ curl -L https://get.web3j.io | sh
 ```
 
 Then, you can run the
@@ -277,7 +277,7 @@ machine.
 It’s easy to do (for Windows instructions head [here](command_line_tools.md)):
 
 ```
-$ curl -L get.web3j.io | sh
+$ curl -L https://get.web3j.io | sh
 ```
 
 ### Generate a Hello World project
